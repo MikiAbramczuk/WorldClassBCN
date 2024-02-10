@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<pagescount>
+	<html_total>11</html_total>
+	<html_done>11</html_done>
+	<images>126</images>
+	<script>79</script>
+	<css>27</css>
+	<pdf/>
+	<documents/>
+	<excel/>
+	<powerpoint/>
+	<flash/>
+	<audios/>
+	<videos/>
+	<xml/>
+	<json/>
+	<txt/>
+	<autocad/>
+	<fonts>61</fonts>
+	<scraping_reload>3</scraping_reload>
+	<is_pretty_url>true</is_pretty_url>
+	<has_trailing_slash>true</has_trailing_slash>
+	<is_ebn>false</is_ebn>
+	<email>miki.abramczuk@gmail.com</email>
+	<theme_name>WmdTheme215315</theme_name>
+	<server_url_front_page>https://www.waybackmachinedownloader.com/scraping/files/demo/worldclassbcn.com_miki.abramczuk_gmail.com_pf6jp0tx68/</server_url_front_page>
+	<no_www_url>worldclassbcn.com</no_www_url>
+	<hosted_domain/>
+	<original_archive_url>https://web.archive.org/web/20240112112830/https://www.worldclassbcn.com/</original_archive_url>
+	<final_archive_url>https://web.archive.org/web/20240112112830/https://www.worldclassbcn.com/</final_archive_url>
+	<front_page_code_date>20240112112830</front_page_code_date>
+	<total_urls_from_api/>
+	<max_reached_live>false</max_reached_live>
+	<scrape_other_captures>false</scrape_other_captures>
+	<total_size>12396</total_size>
+<json_from_script>1</json_from_script></pagescount>

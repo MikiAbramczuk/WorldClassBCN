@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<urlset
+		xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+		xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+			http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+	<!-- This is the sitemap for the free demo version. This is NOT a list of all pages that the paid version includes. The paid version has a larger sitemap. -->
+		
+		<url>
+			<loc>https://worldclassbcn.com</loc>
+		</url>
+		<url>
+			<loc>https://worldclassbcn.com/accommodation/</loc>
+		</url>
+		<url>
+			<loc>https://worldclassbcn.com/blog/</loc>
+		</url>
+		<url>
+			<loc>https://worldclassbcn.com/terms-and-conditions/</loc>
+		</url>
+		<url>
+			<loc>https://worldclassbcn.com/privacy-policy/</loc>
+		</url>
+		<url>
+			<loc>https://worldclassbcn.com/frequently-asked-questions/</loc>
+		</url>
+		<url>
+			<loc>https://worldclassbcn.com/aprender-espanol-en-barcelona/</loc>
+		</url>
+		<url>
+			<loc>https://worldclassbcn.com/category/inside_world_class/</loc>
+		</url>
+		<url>
+			<loc>https://worldclassbcn.com/author/admin/</loc>
+		</url>
+		<url>
+			<loc>https://worldclassbcn.com/spanish-class-barcelona/</loc>
+		</url>
+		<url>
+			<loc>https://worldclassbcn.com/learn-spanish/</loc>
+		</url>
+	</urlset>
